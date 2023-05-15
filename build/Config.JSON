@@ -1,4 +1,5 @@
 {
+  "contextPath": "",
   "GameplayConfig": {
     "introStateWaitTime": 1.0,
     "countdownStart": 5,
