@@ -1,5 +1,6 @@
 {
   "contextPath": "",
+  "fetchTimePath": "http://136.243.92.46:8080/SongBeatQA_15/fetchTime",
   "GameplayConfig": {
     "introStateWaitTime": 1.0,
     "countdownStart": 3,
