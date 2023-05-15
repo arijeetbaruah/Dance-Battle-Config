@@ -1,0 +1,7 @@
+{
+  "GameplayConfig": {
+    "introStateWaitTime": 1.0,
+    "countdownStart": 5,
+    "countdownDuration": 5.0
+  }
+}
